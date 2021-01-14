@@ -2,6 +2,4 @@
 print("hyrz")
 print("hyrz")
 print("naruto")
-print("naruto")
-print("naruto")
-print("naruto")
+print("llllla")
